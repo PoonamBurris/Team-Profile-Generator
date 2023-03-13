@@ -39,6 +39,9 @@
   Reach me @ poonam.burris@gmail.com for any further questions regarding this application
   <br>
   [GitHub]https://github.com/PoonamBurris
+  
+  ## Screenshot 
+  ![image](https://user-images.githubusercontent.com/119805763/224831375-b2b1a9e6-663d-4de8-b282-d644a26be37f.png)
 
   ## Video
 [Untitled_ Mar 13, 2023 4_43 PM.webm](https://user-images.githubusercontent.com/119805763/224829300-ed9ad04b-3bf6-4ed9-96b9-ff0b24e95cc4.webm)
